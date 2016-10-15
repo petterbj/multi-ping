@@ -45,4 +45,3 @@ if __name__ == '__main__':
     array.sort(cmp)
     print array[0:10]
     print "total time spent is ", time.time()-start
-
